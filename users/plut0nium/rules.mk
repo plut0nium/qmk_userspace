@@ -1,0 +1,6 @@
+
+SRC += plut0nium.c
+
+LEADER_ENABLE = no
+TAP_DANCE_ENABLE = no
+COMBO_ENABLE = no
